@@ -20,4 +20,6 @@
  1. Terminal is in the correct repo
  2. In terminal: rm -rf .git
 
-# Env Libraries
+### Env Libraries
+1.  Pandas
+2.  Numpy
